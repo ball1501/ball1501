@@ -2,59 +2,39 @@
 
 🎓 **42 School Cadet | Aspiring Software Developer**
 
-I'm currently developing my programming skills at 42 School, with a focus on C programming, problem-solving, and understanding how software works under the hood.
+I'm currently learning software development at 42 School, focusing on C programming, problem-solving, and understanding how things work under the hood.
 
-I enjoy building projects, debugging code, exploring system-level concepts, and learning by doing.
+I believe in learning by doing — writing code, debugging, solving problems, and continuously improving my skills.
 
-### 🚀 What I'm Working On
+### 🧠 Current Focus
 
-* 🖥️ Strengthening my C programming fundamentals
-* 🧠 Learning about memory management, pointers, and data structures
-* 🛠️ Building projects through the 42 School curriculum
-* 🐧 Exploring Linux systems, networking, and automation
-* 🌐 Developing practical web applications with Python and Flask
+* 💻 C Programming
+* 🧩 Algorithms & Problem-Solving
+* 🧠 Pointers & Memory Management
+* 🔗 Data Structures
+* 🛠️ Software Design & Code Quality
 
-### 💻 Tech Stack & Tools
+### 🛠️ Tools
 
-**Languages**
+* **Languages:** C, Python
+* **Version Control:** Git, GitHub
+* **Editor:** Vim, VS Code
+* **Environment:** Linux, macOS
 
-* C
-* Python
-* SQL
+### 📚 42 School Projects
 
-**Tools & Environments**
+| Project                                                    | Description                                                                         |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [Libft](https://github.com/ball1501/libft)                 | Reimplementing standard C library functions to strengthen programming fundamentals. |
+| [ft_printf](https://github.com/ball1501/ft_printf)         | Exploring variadic functions and formatted output in C.                             |
+| [get_next_line](https://github.com/ball1501/get_next_line) | Learning file I/O, buffering, and dynamic memory allocation in C.                   |
 
-* Git & GitHub
-* Linux
-* macOS
-* Vim
-* VS Code
+### 🌱 My Learning Philosophy
 
-**Areas of Interest**
+I focus on understanding the fundamentals rather than just making code work.
 
-* Systems Programming
-* Software Development
-* Linux & Networking
-* Web Applications
-* Automation
-
-### 📂 Featured Projects
-
-🔹 **[Libft](https://github.com/ball1501/libft)**
-A custom C library implementing common standard-library functions, along with additional string, memory, and linked-list utilities.
-
-🔹 **[ft_printf](https://github.com/ball1501/ft_printf)**
-A custom implementation of `printf` to explore variadic functions, format specifiers, and formatted output in C.
-
-🔹 **[get_next_line](https://github.com/ball1501/get_next_line)**
-A C project focused on reading files line by line using file descriptors, buffered I/O, and dynamic memory management.
-
-### 🌱 Currently Learning
-
-I'm focused on writing clean, understandable C code, improving my debugging skills, and developing a deeper understanding of programming fundamentals.
-
-I believe the best way to learn is to build, test, break things, and figure out why they work.
+Every project is an opportunity to learn something new, improve my problem-solving skills, and become a better developer.
 
 ---
 
-📌 Always learning. Always building.
+**Keep learning. Keep building.**
