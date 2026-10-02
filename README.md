@@ -43,10 +43,10 @@ I enjoy building projects, debugging code, exploring system-level concepts, and 
 🔹 **[Libft](https://github.com/ball1501/libft)**
 A custom C library implementing common standard-library functions, along with additional string, memory, and linked-list utilities.
 
-🔹 **ft_printf**
+🔹 **[ft_printf](https://github.com/ball1501/ft_printf)**
 A custom implementation of `printf` to explore variadic functions, format specifiers, and formatted output in C.
 
-🔹 **get_next_line**
+🔹 **[get_next_line](https://github.com/ball1501/get_next_line)**
 A C project focused on reading files line by line using file descriptors, buffered I/O, and dynamic memory management.
 
 ### 🌱 Currently Learning
